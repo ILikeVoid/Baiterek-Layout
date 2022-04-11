@@ -37,8 +37,8 @@ body {
 }
 
 .title-text {
-    text-transform: uppercase;
     color: #FFFFFF;
+    text-transform: uppercase;
     width: auto;
     height: 118px;
     font-size: 48px;
@@ -51,11 +51,20 @@ body {
 }
 
 .content {
+    background-color: #FFFAE8;
     width: 1920px;
     padding-top: 500px;
 }
 
+.last-content {
+    padding-top: 152px;
+    width: 1920px;
+}
+
+
 .content01-info01{
+    margin-left: auto;
+    margin-right: auto;
     width: 523px;
 }
 
@@ -65,6 +74,7 @@ body {
 }
 
 .content-title01 {
+    text-transform: uppercase;
     font-size: 48px;
     color: #000000;
     font-style: inherit;
@@ -92,6 +102,7 @@ body {
 }
 
 .content-title02 {
+    text-transform: uppercase;
     font-size: 48px;
     color: #000000;
     font-style: inherit;
@@ -132,6 +143,7 @@ body {
 }
 
 .content-title03 {
+    text-transform: uppercase;
     font-size: 48px;
     color: #000000;
     font-style: inherit;
@@ -143,7 +155,6 @@ body {
 }
 
 .content04 {
-    padding-top: 152px;
     width: 100%;
 }
 
@@ -158,6 +169,7 @@ body {
 }
 
 .content-title04 {
+    text-transform: uppercase;
     font-size: 48px;
     color: #000000;
     font-style: inherit;
